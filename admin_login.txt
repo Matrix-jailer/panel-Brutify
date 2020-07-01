@@ -289,5 +289,6 @@ supermanager%EXT%
 superman%EXT%
 superuser%EXT%
 supervise/
+admin/login.php
 supervise/Login%EXT%
 super%EXT%
