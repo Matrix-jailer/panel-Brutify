@@ -1,5 +1,9 @@
 # ADMIN - PANEL - BRUTEFORCE
 
+## Description
+This tool help you to find websites admin panels , c-panels
+
+
 ## VERSION
 ```
 0.5
