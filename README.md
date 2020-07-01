@@ -17,6 +17,9 @@ apt install python
 apt install git
 ```
 ```
+pip2 install colorama
+```
+```
 git clone https://github.com/Matrix-jailer/panel-Brutify.git
 ```	
 		
